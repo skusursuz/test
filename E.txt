@@ -1,0 +1,7 @@
+ici pour V2
+
+
+j'ai fait le changement ici
+
+
+je vais utilise git reset E
