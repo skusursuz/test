@@ -1,1 +1,3 @@
 C'est le commit du C.
+
+je vais utilise git reset E

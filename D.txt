@@ -3,3 +3,5 @@ ici pour V2
 Nouvelle changement!
 
 Bonjouuur!
+
+je vais utilise git reset E
